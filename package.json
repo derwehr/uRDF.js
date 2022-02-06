@@ -11,7 +11,7 @@
     "main": "src/urdf-module.js",
     "dependencies": {
         "sparqljs": "2.x.x",
-        "n3": "1.0.x",
+        "n3": "1.13.x",
         "jsonld": "1.5.x",
         "node-fetch": "2.6.x",
         "arg": "4.1.x"
